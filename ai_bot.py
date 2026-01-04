@@ -3,7 +3,7 @@ import google.generativeai as genai
 import datetime
 
 # 1. TOKENLARNI QO'YING
-BOT_TOKEN = '8529832810:AAE_naPz4_FlQfyYLnAK0FB8LvzLMB9cd3s' # @BotFather'dan olingan
+BOT_TOKEN = '8529832810:AAE6Jl_xr1bK5Cs78AzkcLRxFXZRPtaffNw' # @BotFather'dan olingan
 GEMINI_KEY = 'AIzaSyA27a0zXnhC7f6wCm0Mk0eU3RW0vJtyNL4' # Google AI Studio'dan olingan
 
 # 2. SOZLAMALAR
